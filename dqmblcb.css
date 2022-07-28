@@ -1,0 +1,9 @@
+table.cbc {empty-cells:show;float:left;margin-left:3em;margin-top:1em; border-collapse:collapse;}
+table.cbc td {width:0.8em;height:0.8em;margin:0px;padding:0px;}
+td.r {background-color:Red;}
+td.g {background-color:Green;}
+td.b {background-color:Blue;}
+td.k {background-color:Black;}
+input.text {width: 6em;}
+select {font-family:monospace;}
+iframe {float:left;margin-right:1px;}
